@@ -1,5 +1,0 @@
-# Automatically generated
-# duptype id depth size device inode priority name
-DUPTYPE_FIRST_OCCURRENCE 2290 3 41 38 47644708 5 /home/hieudubai/Pictures/Wallpaper/.git/refs/heads/main
-DUPTYPE_WITHIN_SAME_TREE -2290 4 41 38 47644719 5 /home/hieudubai/Pictures/Wallpaper/.git/refs/remotes/origin/main
-# end of file
