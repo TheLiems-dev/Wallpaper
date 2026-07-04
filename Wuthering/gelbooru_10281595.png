@@ -1,0 +1,325 @@
+<!DOCTYPE html><html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>mockingeu, verina (wuthering waves), wuthering waves, highres, 1boy, 1girl, bench, blonde hair, blush, brooch, child, choker, dress, embarrassed, flower, flower brooch, gloves, green dress, green eyes, hair ribbon, long hair, looking at viewer, ribbon, shadow, solo, sunlight - Image View -  | Gelbooru - Anime Art & Hentai Gallery - Free to Explore</title>
+		<link rel="alternate" hreflang="ja" href="https://ja.gelbooru.com/index.php?page=post&amp;s=view&amp;id=10281595" />
+<link rel="alternate" hreflang="en" href="https://gelbooru.com/index.php?page=post&amp;s=view&amp;id=10281595" />
+
+		<meta name="keywords" content=", anime, doujinshi, hentai, porn, sex, japanese hentai, anime hentai, rule34, rule 34, imageboard- 1boy, 1girl, bench, blonde hair, blush, brooch, child, choker, dress, embarrassed, flower, flower brooch, gloves, green dress, green eyes, hair ribbon, highres, long hair, looking at viewer, mockingeu, ribbon, shadow, solo, sunlight, verina (wuthering waves), wuthering waves" />
+		<meta name="description" content="Browse millions of anime, manga, videos, hentai, and video game themed images on Gelbooru. Discover art with detailed tags. Contains explicit hentai content.- 1boy, 1girl, bench, blonde hair, blush, brooch, child, choker, dress, embarrassed, flower, flower brooch, gloves, green dress, green eyes, hair ribbon, highres, long hair, looking at viewer, mockingeu, ribbon, shadow, solo, sunlight, verina (wuthering waves), wuthering waves" />
+		<meta name="rating" content="general" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="gridStyle.css?16e">
+		
+		<link rel="SHORTCUT ICON" href="favicon.png" />
+		<link rel="search" type="application/opensearchdescription+xml" title="Gelbooru.com: Coded by Geltas" href="gelbooru.xml" />
+		
+		
+		<meta property="og:site_name" content="Gelbooru" />
+		<meta property="og:image" content="https://img4.gelbooru.com//images/6f/92/6f923b57e9dc6d9156523eae9a5d2cca.png" />
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:image" content="https://img4.gelbooru.com//images/6f/92/6f923b57e9dc6d9156523eae9a5d2cca.png" />
+		
+		<script async type="application/javascript" src="https://a.realsrv.com/ad-provider.js"></script> 
+	</head>
+	<body>
+	<style>
+	 .mn-container-adsby_position_bottom-right {
+		 display: none;
+	 }
+	</style>
+		<div id="container">
+		<div id="long-notice"></div><div id="notice" style="display: none;"></div>
+		  <header>
+			<div class="topnav" id="myTopnav">
+				<a href="https://gelbooru.com/index.php" class="homeIcon">
+					<img src="https://gelbooru.com/layout/gelbooru-logo.svg" style="height: 46px; width: 46px; margin: 0px; padding-bottom: 2px;">
+				</a>
+				<a href="index.php?page=account&s=home">Settings</a>
+				<a href="index.php?page=post&s=list&tags=all" class="active">Posts</a>
+				<a href="index.php?page=comment&s=list">Comments</a>
+				<a href="index.php?page=wiki&s=list">Wiki</a>
+				<a href="index.php?page=tags&s=list">Tags</a>
+				<a href="index.php?page=pool&s=list">Pools</a>
+				<a href="index.php?page=extras&s=artists">Featured</a>
+				<a href="index.php?page=forum&s=list">Forum</a>
+				<a href="index.php?page=tracker&s=list">Trac</a>
+				<a href="index.php?page=conversation&s=list">Live Chat</a>
+			
+				<a href="javascript:;" onclick="darkModeToggle(); return false;"><img src="layout/lightbulb-fill.svg" style="filter: invert(62%) sepia(93%) saturate(1352%) hue-rotate(18deg) brightness(119%) contrast(119%); width: 14px; padding: 0px; margin: 0px;"></a>
+								  
+				<a href="javascript:void(0);" class="icon" onclick="responsiveViewToggle();">
+					<img src="layout/list.svg" style="filter: invert(100); height: 16px;">
+				  </a>
+			</div>
+			<div style="background: #a43535; color: #fff; padding: 10px; font-size: 11px;" id="motd">
+				<i><b>Notice</b></i>: We will show one popunder ad per half day. This can be disabled in your account options. The popunder will spawn as soon as you click on the page. You have been informed. <a href="javascript:;" onclick="$.cookie('motd','1',{ expires: 7 }); $('#motd').hide(); $('#motdspacer').show(); return false;" style="color: #fff; text-decoration: underline;">(Dismiss)</a>
+			</div>
+		  </header><div class="navSubmenu">				<a href="index.php?page=post&amp;s=list">List</a>
+				<a href="index.php?page=post&amp;s=add">Upload</a>
+				<a href="index.php?page=post&amp;s=addVideo">Upload Video</a>
+				<a href="index.php?page=post&amp;s=random">Random</a>
+				<a href="index.php?page=tags&amp;s=saved_search">Saved Searches</a>
+				<a href="redeemCode.php" style="color: #00ff00;"><b>Redeem Code</b></a>
+				</div>
+		  <div class="searchArea">
+			<div>
+				<form action="index.php?page=search" method="post">
+					<a href="javascript:;" onclick="saveTagSearch() ;return false;"><img class="" src="layout/heart-fill.svg" style="vertical-align: top; margin: 4px 10px 0px 10px; height: 24px; width: 24px; border: 0px !important; opacity: .6;" title="Save this search. Check your account page."></a>
+					<input id="tags-search" name="tags" autocomplete="on" style="padding: 7px; width: calc(100% - 180px); border: 1px solid #e0e0e0;"  data-autocomplete="tag-query" type="text" value="" placeholder="Search Example: video black_hair rating:sensitive"/>
+					<input name="commit" type="submit" value="Search" class="searchList"/>
+			</form>
+			</div>
+		  </div><link rel="stylesheet" type="text/css" media="screen" href="noteGrid.css?3" title="default" />
+	<section class="aside">
+		<ul class="tag-list" id="tag-list" style="margin: 0px 10px 0px 10px;">
+			<span class="sm-hidden"><li style="margin-top: 10px;"><b>Artist</b></li></span><li class="tag-type-artist"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=mockingeu">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=mockingeu">mockingeu</a> <span style='color: #a0a0a0;'>338</span></li><span class="sm-hidden"><li style="margin-top: 10px;"><b>Character</b></li></span><li class="tag-type-character"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=verina_%28wuthering_waves%29">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=verina_%28wuthering_waves%29">verina (wuthering waves)</a> <span style='color: #a0a0a0;'>314</span></li><span class="sm-hidden"><li style="margin-top: 10px;"><b>Copyright</b></li></span><li class="tag-type-copyright"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=wuthering_waves">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=wuthering_waves">wuthering waves</a> <span style='color: #a0a0a0;'>49434</span></li><span class="sm-hidden"><li style="margin-top: 10px;"><b>Metadata</b></li></span><li class="tag-type-metadata"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=highres">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=highres">highres</a> <span style='color: #a0a0a0;'>8853880</span></li><span class="sm-hidden"><li style="margin-top: 10px;"><b>Tag</b></li></span><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=1boy">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=1boy">1boy</a> <span style='color: #a0a0a0;'>2407381</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=1girl">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=1girl">1girl</a> <span style='color: #a0a0a0;'>9371204</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=bench">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=bench">bench</a> <span style='color: #a0a0a0;'>22155</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=blonde_hair">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=blonde_hair">blonde hair</a> <span style='color: #a0a0a0;'>2404588</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=blush">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=blush">blush</a> <span style='color: #a0a0a0;'>4678850</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=brooch">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=brooch">brooch</a> <span style='color: #a0a0a0;'>87733</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=child">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=child">child</a> <span style='color: #a0a0a0;'>103460</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=choker">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=choker">choker</a> <span style='color: #a0a0a0;'>608812</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=dress">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=dress">dress</a> <span style='color: #a0a0a0;'>1903079</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=embarrassed">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=embarrassed">embarrassed</a> <span style='color: #a0a0a0;'>189881</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=flower">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=flower">flower</a> <span style='color: #a0a0a0;'>861091</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=flower_brooch">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=flower_brooch">flower brooch</a> <span style='color: #a0a0a0;'>3199</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=gloves">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=gloves">gloves</a> <span style='color: #a0a0a0;'>1974951</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=green_dress">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=green_dress">green dress</a> <span style='color: #a0a0a0;'>55370</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=green_eyes">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=green_eyes">green eyes</a> <span style='color: #a0a0a0;'>1308939</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=hair_ribbon">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=hair_ribbon">hair ribbon</a> <span style='color: #a0a0a0;'>783040</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=long_hair">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=long_hair">long hair</a> <span style='color: #a0a0a0;'>6431932</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=looking_at_viewer">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=looking_at_viewer">looking at viewer</a> <span style='color: #a0a0a0;'>5101987</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=ribbon">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=ribbon">ribbon</a> <span style='color: #a0a0a0;'>1438357</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=shadow">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=shadow">shadow</a> <span style='color: #a0a0a0;'>158158</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=solo">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=solo">solo</a> <span style='color: #a0a0a0;'>7292263</span></li><li class="tag-type-general"><span class="sm-hidden"><a href="index.php?page=wiki&amp;s=list&amp;search=sunlight">?</a> </span><a href="index.php?page=post&amp;s=list&amp;tags=sunlight">sunlight</a> <span style='color: #a0a0a0;'>96550</span></li>
+					<li><br /></li>
+					<li><h3>Statistics</h3></li>
+					<li>Id: 10281595<br /></li>
+					<li>Posted: 2024-06-30 00:15:37<br /> Uploader: <a href="index.php?page=account&amp;s=profile&amp;id=6498">danbooru</a><br /></li>
+					<li>Size: 1440x1800<br /></li><li style="line-break: anywhere;">Source: <a href="https://www.pixiv.net/artworks/119585001" rel="nofollow">www.pixiv.net/artworks/119585001</a><br /></li><li>Rating: General<br /></li>
+					<li>Score: <span id="psc10281595">64</span> 
+					(vote <a href="#" onclick="Javascript:post_vote('10281595', 'up'); return false;">Up</a>)
+					</li>
+					<li style="padding-top: 10px;">					</li>
+			<li><br /></li>
+			<li><h3>Options</h3></li>
+			<li><a href="javascript:;" class="showEditBox">Edit</a><br /></li>
+			<li><a href="javascript:;" onclick="$('#resize-link').toggle(); $('#image').attr('src','https://img4.gelbooru.com/images/6f/92/6f923b57e9dc6d9156523eae9a5d2cca.png');$('#image').removeAttr('height width');$('#imgsrcset').attr('srcset','https://img4.gelbooru.com/images/6f/92/6f923b57e9dc6d9156523eae9a5d2cca.png'); $('#image').toggleClass('fit-width'); window.scrollTo(0,0); return false;">Fit Image to Window</a><br /></li>
+		<li><a href="https://img4.gelbooru.com/images/6f/92/6f923b57e9dc6d9156523eae9a5d2cca.png" target="_blank" rel="noopener" style="font-weight: bold;">Original image</a><br /></li>			<li><a href="//gelbooru.com" onclick="/*!(input == null || input == '') is a really ugly hack to make this page pass xhtml validation*/if(confirm('Are you sure you want to delete this post?')){ var input = prompt('Reason for deleting this post'); if(!(input == null || input == '')) {  document.location='./public/remove.php?id=10281595&amp;removepost=1&amp;delete=no&amp;csrf-token=f1cbf14d5eebfaa093bc2389885ccd40d92076b412c007a7a0be1ef93608b9a1&amp;reason=' + encodeURI(encodeURIComponent(input));
+			}}; return false;">Delete</a><br /></li>
+			<li><div id="pfd" style="display: inline;"><a href="#" onclick="pflag('10281595'); return false;">Flag for deletion</a></div><br /></li>			<li><a href="#" onclick="post_vote('10281595', 'up'); addFav('10281595'); return false;">Add to favorites</a><br /></li>
+			<li><a id="translate" data-shortcut="n" href="#">Add Note</a><br /></li>
+			<li><a href="javascript:;" onclick="addToPoolID(10281595); return false;">Add to Pool</a><br /></li>
+			<li><a href="./public/lock.php?id=10281595&amp;csrf-token=f1cbf14d5eebfaa093bc2389885ccd40d92076b412c007a7a0be1ef93608b9a1">Lock Image</a><br /></li>			<li><a href="index.php?page=tags&s=merge&post_id=10281595">Tag Merge</a><br /></li>
+			<li></li>
+			<li><h3>History</h3></li>
+			<li><a href="index.php?page=history&amp;type=tag_history&amp;id=10281595">Tags</a><br /></li>
+			<li><a href="index.php?page=history&amp;type=page_notes&amp;id=10281595">Notes</a><br /></li>
+			<li></li>
+			<li><h3>Related Posts</h3></li>
+	<li><a href="//saucenao.com/search.php?db=999&dbmaski=32768&url=https://img4.gelbooru.com/thumbnails//6f/92/thumbnail_6f923b57e9dc6d9156523eae9a5d2cca.jpg" rel="nofollow" target="_blank">SauceNao</a></li><li><a href="//iqdb.org/?url=https://img4.gelbooru.com/thumbnails//6f/92/thumbnail_6f923b57e9dc6d9156523eae9a5d2cca.jpg" rel="nofollow" target="_blank">IQDB</a></li>		 <br /><br />
+	</ul>
+	</section>
+
+	<main>
+<div class="showNoGridSupport alert alert-info" style="display: none;"><center><a href="https://caniuse.com/css-grid" rel="nofollow" target="_blank">Your browser does not support grid</a>, so will not be supported. Hover over your browser version to see if there is a way to enable potential support. Sorry, I am no longer able to justify working on making the layout work on older devices.</center></div><div class="alert alert-success" role="alert"  style="display: none;"><center><a href="index.php?page=gmail">You have mail</a></center></div>	<div class="mainBodyPadding">
+
+	<div style="padding: 20px; font-size: 1.2em; font-weight: bold;"><a href="https://v6.realxxx.com/1868c386-24d9-4fdc-b213-73d6e1f61423" rel="nofollow" target="_blank">💦 AI Cumsluts</a></div><div id="resize-link"  class="alert alert-info" style="text-align: left; margin: 10px 0px; padding: 10px;"><a href="javascript:;" onclick="resizeTransition(); return false;">Click here to expand image.</a></div>
+
+		<section class="image-container note-container" data-id="10281595" data-has-sound="false" data-tags=" 1boy 1girl bench blonde_hair blush brooch child choker dress embarrassed flower flower_brooch gloves green_dress green_eyes hair_ribbon highres long_hair looking_at_viewer mockingeu ribbon shadow solo sunlight verina_(wuthering_waves) wuthering_waves " data-pools="" data-rating="general" data-large-width="850" data-large-height="850" data-width="1440" data-height="1800" data-flags="" data-has-children="false" data-score="64" data-file-ext=".png" data-source="https://www.pixiv.net/artworks/119585001" data-uploader-id="6498" data-normalized-source="https://www.pixiv.net/artworks/119585001" data-md5="6f923b57e9dc6d9156523eae9a5d2cca" data-file-url="" data-large-file-url="" data-preview-file-url="">
+		<picture>
+		<img width="850" height="1063" id="image" class="fit-width" src="https://img4.gelbooru.com//samples/6f/92/sample_6f923b57e9dc6d9156523eae9a5d2cca.jpg">		</picture>
+		<div id="note-preview"></div>
+		</section>
+				<section id="notes" style="display: none;">
+	</section>
+
+		<h4 id="scrollebox"><a href="javascript:;" class="showEditBox">Edit</a> | <a href="javascript:;" id="showCommentBox">Leave a Comment</a> |
+		<a href="#" onclick="post_vote('10281595', 'up'); addFav('10281595'); return false;">Favorite</a>		</h4>
+		<div style="max-width: 800px;">
+		<form method="post" action="./public/edit_post.php" id="edit_form" name="edit_form" style="display:none">
+		<br />
+		<table class="post-view">
+		<tr><td>
+		<h2>Edit Post</h2><br />
+		<b>Rating</b><br /><br />
+		<input type="radio" name="rating"  value="e" />Explicit
+		<input type="radio" name="rating"  value="q" />Questionable
+		<input type="radio" name="rating"  value="s" />Sensitive
+		<input type="radio" name="rating" checked="checked" value="g" />General
+		</td></tr>
+		<tr><td><b>Title</b><br /><br />
+		<input type="text" name="title" id="title" class="tag-list-search" style="width: 100%;" value="" /></td></tr>
+		<tr><td><b>Source</b><br /><br />
+		<input type="text" name="source" size="40" class="tag-list-search" style="width: 100%;" id="source" value="https://www.pixiv.net/artworks/119585001" /></td></tr>
+		<tr><td><b>Tags</b><br /><br />
+		<textarea cols="100" id="tags" class="tagBox tag-list-search" name="tags" rows="8" tabindex="10" style="width: 100%;" data-autocomplete="tag-edit">1boy 1girl bench blonde_hair blush brooch child choker dress embarrassed flower flower_brooch gloves green_dress green_eyes hair_ribbon highres long_hair looking_at_viewer mockingeu ribbon shadow solo sunlight verina_(wuthering_waves) wuthering_waves</textarea></td></tr>
+		<tr><td><b>My Tags</b><br /><br />
+		<div id="my-tags">
+		<a href="index.php?page=account-options">Edit</a>
+		</div></td></tr>
+		<tr><td>
+		<input type="hidden" name="tagsSearched" value="" />
+		<input type="hidden" name="id" value="10281595" />
+		<input type="hidden" name="uid" value="9455" />
+		<input type="hidden" name="uname" value="anonymous" />
+		<input type="hidden" name="lupdated" id="lupdated" value="1746808717"/>
+		<input type="hidden" name="csrf-token" value="f1cbf14d5eebfaa093bc2389885ccd40d92076b412c007a7a0be1ef93608b9a1"/>
+
+		<div class="g-recaptcha" data-sitekey="6Le2_B8TAAAAANkQyx0Lur5a8hob8kx3EYvWn4Ej"></div><br />
+		<input type="submit" name="submit" value="Save changes" class="searchList" style="width: 100%;"  disabled />
+		</td></tr>
+
+		</table>
+		<br /><br />
+
+		</form>
+		</div>
+		<form method="post" action="index.php?page=comment&amp;s=list&amp;id=10281595&amp;s=save" name="comment_form" id="comment_form" style="display: none;">
+
+		<table class="post-view">
+		<tr><td>
+			<br /><h2>Add Comment</h2><br />
+			<a href="https://gelbooru.com/index.php?page=wiki&s=&s=view&id=207"><h2>Review our comment guidelines before posting, or risk getting your account banned.</h2></a>
+			<br /><br />
+			<textarea name="comment" id="comment" rows="7" cols="100"  style="width: 100%;" class="tag-list-search" placeholder="Think before you post. Posting horny, RP, or overall low quality comments will get you banned with no more warnings."></textarea>
+		</td></tr>
+		<tr><td>
+			<input type="hidden" name="conf" id='conf' value="0"/>
+			<input type="hidden" name="csrf-token" value="f1cbf14d5eebfaa093bc2389885ccd40d92076b412c007a7a0be1ef93608b9a1"/>
+
+		<div class="g-recaptcha" data-sitekey="6Le2_B8TAAAAANkQyx0Lur5a8hob8kx3EYvWn4Ej"></div><br />
+			<input type="submit" name="submit" onclick="return validate_comment();" value="Post comment" class="searchList" style="width: 100%;"  disabled />
+		</td></tr></table>
+		<br /><br />
+
+		</form>
+
+		<br />
+		<div style="width: 100%;">
+			<div style="padding: 10px; font-weight: bold;">More Like This: (Beta Temporary Feature)</div>
+		<a href="index.php?page=post&s=view&id=7894266"><img width="255" height="350" style="margin: 10px; width: auto; max-height: 100px;" src="https://img4.gelbooru.com/thumbnails//54/89/thumbnail_548987fa39e4a3cc2c80743cf04fc86e.jpg" /></a><a href="index.php?page=post&s=view&id=9206531"><img width="280" height="350" style="margin: 10px; width: auto; max-height: 100px;" src="https://img4.gelbooru.com/thumbnails//a1/e9/thumbnail_a1e935cd1e21d9edf7d41f9242519c0b.jpg" /></a><a href="index.php?page=post&s=view&id=11010567"><img width="326" height="350" style="margin: 10px; width: auto; max-height: 100px;" src="https://img4.gelbooru.com/thumbnails//e2/d8/thumbnail_e2d802a66608c39a307cefc9aed179b5.jpg" /></a><a href="index.php?page=post&s=view&id=11673444"><img width="260" height="350" style="margin: 10px; width: auto; max-height: 100px;" src="https://img4.gelbooru.com/thumbnails//a8/3b/thumbnail_a83b1ab85b197b97fb2f12db6b7b96b4.jpg" /></a><a href="index.php?page=post&s=view&id=9366980"><img width="280" height="350" style="margin: 10px; width: auto; max-height: 100px;" src="https://img4.gelbooru.com/thumbnails//9b/7b/thumbnail_9b7bfd7deca8ec532b355b4c48301c3a.jpg" /></a><a href="index.php?page=post&s=view&id=9718904"><img width="280" height="350" style="margin: 10px; width: auto; max-height: 100px;" src="https://img4.gelbooru.com/thumbnails//67/66/thumbnail_6766e400bb0555e43fe28893c9065d57.jpg" /></a>		</div>
+		<br /><br />
+	<h2>User Comments:</h2><br /><div>
+	<div class="commentAvatar">
+		<div class="profileAvatar" style="background: #fff url('user_avatars/honkonymous.png') no-repeat center; background-size: 85px auto; "></div>
+	</div>
+
+	<div class="commentBody ">
+	<a href="index.php?page=account&amp;s=profile&amp;id=920254"><b>BigPeePeeMan</b></a> commented at 2025-01-11 04:14:26 &raquo; #2952946<br /><br />Whatever she wants, it is hers.<br /><br />
+		<span style="font-size: .9em;">
+			<span class="info"><a href="#" onclick="Javascript:vote('10281595', '2952946', 'up'); return false;"><img src="layout/caret-up-fill.svg" class="voteUpComment" /></a> <span id="sc2952946">1</span>  Points</span>
+			<span class="info"><a href="#"  onclick="Javascript:cflag('2952946'); return false;"><img src="layout/flag-fill.svg" class="reportComment" title="Flag for Review"/> Flag</a></span>
+			
+		</span>
+			</div>
+</div><br /><a href="https://www.pixiv.net/en/users/1920354" target="_blank" style="margin: 5px;"><img src="https://gelbooru.com/extras/manga/b2dAriMangaCh8.jpg"></a></div><div id="paginator"><div class="pagination"> <b>1</b> 		</div></div>
+	<br /><br />
+
+</main>		  
+		  <footer>
+		  		<a href="index.php?page=dmca&amp;s=index"><h2 style="display: inline-block;">DMCA</h2></a><a href="tos.php"><h2 style="display: inline-block;">TOS</h2></a>
+				<br /><br />
+				<a href="index.php?page=wiki&amp;s=list&amp;search=howto"><b>Help</b></a>
+				<a href="https://twitter.com/gelbooru" target="_blank">Twitter</a>
+				<a href="https://discord.gg/Zxs9tPE"><b>Discord</b></a>
+				<a href="index.php?page=extras&amp;s=patreon">Project Supporters</a>
+				
+			</footer>
+					</div>
+
+	<script>
+	(AdProvider = window.AdProvider || []).push({"serve": {}});
+
+	function responsiveViewToggle() {
+		var x = document.getElementById("myTopnav");
+		if (x.className === "topnav") {
+			x.className += " responsive";
+		} else {
+			x.className = "topnav";
+		}
+	}
+	</script>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="css/jquery-ui.css?2" title="default" />
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://gelbooru.com//script/jquery.cookie.js"></script>
+	<script src="https://gelbooru.com//script/application.grid.js"></script>
+	<script src="https://gelbooru.com//script/jquery-hotkeys.js?1"></script>
+	<script src="https://gelbooru.com//script/autocomplete3.js?2"></script>
+	<script type="text/javascript" src="script/utilityGrid.js?16"></script>
+	<script type="text/javascript" src="script/notesGrid.js?16"></script>
+	<script type="text/javascript" src="script/shortcutsGrid.js?16"></script>
+	<script src="https://gelbooru.com/script/post-view.js?27"></script>
+	
+	<script type="text/javascript">
+		function tagPM(tagInput){
+			$('#tags-search').val($('#tags-search').val() + ' ' + tagInput);
+		}
+
+		function saveTagSearch() {
+			$.post("index.php?page=tags&s=saved_search&csrf-token=f1cbf14d5eebfaa093bc2389885ccd40d92076b412c007a7a0be1ef93608b9a1", { save_tag_search: $('#tags-search').val()} )
+			  .done(function( data ) {
+				if(data)
+				{
+					notice("Saved this search successfully! You can access these via the Tags link in the header.");
+				}
+				else
+				{
+					notice("There was an error saving this search. Perhaps it already existed or you are not logged in?");
+				}
+			  });;
+		}
+		if($.cookie('motd') == 1)
+		{
+			$("#motd").hide();
+		}
+
+		function darkModeToggle()
+		{
+			if ($.cookie('dark_mode') == 1 )
+			{
+				$.removeCookie("dark_mode");
+			}
+			else
+			{
+				$.cookie("dark_mode", 1, { expires : 365 });
+			}
+			location.reload();
+		}
+	</script>
+
+	</body>
+</html>	<script type="text/javascript">
+
+		function validate_comment()
+		{
+			var comment = $('#comment').val().trim();
+			var tmp = comment.split(" ");
+			if(tmp.length<3)
+			{
+				alert("A few more keystrokes and this may actually be interesting...");
+				return false;
+			}
+			return true;
+		}
+
+	$("#favoriteUpvote").click(function() {
+		post_vote('10281595', 'up');
+		addFav('10281595');
+	});
+	var imageTags = "";
+	function navigatePrev()
+	{
+		$.get( "apiTest.php", { id:10281595, tags: imageTags, nextPrev: 'next' }, function( data ) {
+			window.location.href = data;
+		});
+	}
+
+	function navigateNext()
+	{
+		$.get( "apiTest.php", { id:10281595, tags: imageTags, nextPrev: 'prev' }, function( data ) {
+		window.location.href = data;
+		});
+	}
+	$("#navNext").click(function() {
+		navigateNext();
+	});
+	function resizeTransition()
+	{
+		var image = $("#image");
+		image.css("filter", "blur(8px)");
+		$('#resize-link').toggle();
+		image.attr('src','https://img4.gelbooru.com/images/6f/92/6f923b57e9dc6d9156523eae9a5d2cca.png');
+		  image.width('1440');
+			image.height('1800');
+			image.toggleClass('fit-width');
+				image.on("load", function() {
+			image.css("animation", "sharpen 0.5s forwards");
+		});
+
+  	}
+	</script>
