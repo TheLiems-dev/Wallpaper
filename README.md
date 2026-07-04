@@ -1,6 +1,6 @@
 # Wallpaper Collection
 
-Total: 2120 images
+Total: 6263 images
 
 ### 00052-155518870.png
 <img src="https://raw.githubusercontent.com/TheLiems-dev/Wallpaper/main/00052-155518870.png" alt="00052-155518870.png" width="400"/>
